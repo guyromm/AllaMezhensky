@@ -220,6 +220,7 @@ text-decoration:none;
 ul.list li span{
 height:24px; width:24px; display:block;padding:0px; margin:0px;color:#000;text-align:center; float:right; line-height:24px;
 background:url(images/bullet_list.gif) no-repeat right;
+margin-left:10px;
 }
 ul.list li a:hover{
 text-decoration:underline;
@@ -282,9 +283,11 @@ h1.logo-1, h2.logo-1{
 	padding-top: 20px;	
 	padding-left: 10px;}
 .center_left{
-width:500px;
+width:484px;
 float:right;
 padding:10px 0 10px 10px;
+padding-right:25px;
+font-size:12pt;
 }
 .logo{
 padding:30px 0 0 0px;
